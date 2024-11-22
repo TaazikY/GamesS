@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\WarGame\\Game\\Source\\Game\\Game.Build.cs",
+		"F:\\WarGame\\Game\\Source\\Game.Target.cs",
+		"F:\\WarGame\\Game\\Source\\GameEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.0"
+}

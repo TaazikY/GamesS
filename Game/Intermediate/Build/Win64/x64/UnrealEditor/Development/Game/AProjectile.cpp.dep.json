@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\wargame\\game\\source\\game\\private\\aprojectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\wargame\\game\\intermediate\\build\\win64\\x64\\gameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\wargame\\game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\game\\definitions.game.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

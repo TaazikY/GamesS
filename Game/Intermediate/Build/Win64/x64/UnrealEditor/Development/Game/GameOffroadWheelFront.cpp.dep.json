@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\wargame\\game\\source\\game\\gameoffroadwheelfront.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\wargame\\game\\intermediate\\build\\win64\\x64\\gameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\wargame\\game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\game\\definitions.game.h",
+            "f:\\wargame\\game\\source\\game\\gameoffroadwheelfront.h",
+            "f:\\wargame\\game\\source\\game\\gamewheelfront.h",
+            "e:\\ue_5.5\\engine\\plugins\\experimental\\chaosvehiclesplugin\\source\\chaosvehicles\\public\\chaosvehiclewheel.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\simplevehicle.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\vehicleutility.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\enginesystem.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\vehiclesystemtemplate.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\transmissionsystem.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\suspensionsystem.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\wheelsystem.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\tiresystem.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\steeringsystem.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\steeringutility.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\aerodynamicssystem.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\aerofoilsystem.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\thrustsystem.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\experimental\\chaosvehicles\\chaosvehiclescore\\public\\arcadesystem.h",
+            "e:\\ue_5.5\\engine\\plugins\\experimental\\chaosvehiclesplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\chaosvehicles\\uht\\chaosvehiclewheel.generated.h",
+            "f:\\wargame\\game\\intermediate\\build\\win64\\unrealeditor\\inc\\game\\uht\\gamewheelfront.generated.h",
+            "f:\\wargame\\game\\intermediate\\build\\win64\\unrealeditor\\inc\\game\\uht\\gameoffroadwheelfront.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,40 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Game.cpp.obj": [
+			"AFragment.gen.cpp.obj",
+			"AProjectile.gen.cpp.obj",
+			"ATank.gen.cpp.obj",
+			"Game.init.gen.cpp.obj",
+			"GameGameMode.gen.cpp.obj",
+			"GameOffroadCar.gen.cpp.obj",
+			"GameOffroadWheelFront.gen.cpp.obj",
+			"GameOffroadWheelRear.gen.cpp.obj",
+			"GamePawn.gen.cpp.obj",
+			"GamePlayerController.gen.cpp.obj",
+			"GameSportsCar.gen.cpp.obj",
+			"GameSportsWheelFront.gen.cpp.obj",
+			"GameSportsWheelRear.gen.cpp.obj",
+			"GameUI.gen.cpp.obj",
+			"GameWheelFront.gen.cpp.obj",
+			"GameWheelRear.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"Game.cpp.obj",
+			"GameGameMode.cpp.obj",
+			"GameOffroadCar.cpp.obj",
+			"GameOffroadWheelFront.cpp.obj",
+			"GameOffroadWheelRear.cpp.obj",
+			"GamePawn.cpp.obj",
+			"GamePlayerController.cpp.obj",
+			"GameSportsCar.cpp.obj",
+			"GameSportsWheelFront.cpp.obj",
+			"GameSportsWheelRear.cpp.obj",
+			"GameUI.cpp.obj",
+			"GameWheelFront.cpp.obj",
+			"GameWheelRear.cpp.obj",
+			"AFragment.cpp.obj",
+			"AProjectile.cpp.obj",
+			"ATank.cpp.obj"
+		]
+	}
+}
